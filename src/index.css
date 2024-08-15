@@ -35,6 +35,19 @@ h1 {
   line-height: 1.1;
 }
 
+input {
+  border-radius: 8px;
+  border: 1px solid #646cff;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  color: #646cff;
+  background-color: transparent;
+  transition: border-color 0.25s;
+  margin-right: 1rem;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
